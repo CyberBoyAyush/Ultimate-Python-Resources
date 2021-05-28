@@ -1,2 +1,2 @@
 # Python-Resources
-Some of the best Python Resources and Services available out there.
+Best Python Resources You Can Use To Boost Your Python Learning ❤️. 
