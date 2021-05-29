@@ -12,6 +12,7 @@ I don't own any of the resources provided in this repository. I just made this r
 
 # Contents
 - [Ultimate Python Resources](#Ultimate-Python-Resources)
+- [Best Python Resource]()
 - [Download Python In Your PC/Laptop](#Download-Python-In-Your-PC/Laptop)
 - [Python Learning Websites](#Python-Learning-Websites)
 - [Python Video Courses (Free But Best)](#Python-Video-Courses-(Free-But-Best))
@@ -23,7 +24,7 @@ I don't own any of the resources provided in this repository. I just made this r
 - [Connect With Me](#Connect-With-Me)
 - [LICENSE](#LICENSE)
 
-
+#### Best Python Resource ---> [Python Official Website](https://www.python.org/)
 ## Download Python In Your PC/Laptop
 You can Python from official Python website. [Click Here](https://www.python.org/downloads/). 
 ###### Note: Most of the libraries and frameworks works best in Python 3.6 or above.
