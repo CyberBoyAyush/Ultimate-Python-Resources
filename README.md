@@ -7,7 +7,7 @@ Best Python Resources You Can Use To Boost Your Python Learning ❤️.
 I don't own any of the resources provided in this repository. I just made this repo so that it can help someone in learning. He/She will get all the resources at one place. 
 
 ### Contribute And Give A Star
-- Contribute To [Ultimate-Python-Resources](https://github.com/CyberBoyAyush/Ultimate-Python-Resources) By Reading [CONTRIBUTING](https://github.com/CyberBoyAyush/Ultimate-Python-Resource/blob/master/CONTRIBUTING.md).
+- Contribute To [Ultimate-Python-Resources](https://github.com/CyberBoyAyush/Ultimate-Python-Resources) By Reading [CONTRIBUTING](https://github.com/CyberBoyAyush/Ultimate-Python-Resources/blob/master/CONTRIBUTING.md).
 - Dont Forget To [🌟Star](https://github.com/CyberBoyAyush/Ultimate-Python-Resources) This Repo. 💙
 
 # Contents
