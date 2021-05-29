@@ -20,7 +20,7 @@ I don't own any of the resources provided in this repository. I just made this r
 - [Python Online IDE's](#Python-Online-IDE's)
 - [Free Hosting Platforms for Python](#Free-Hosting-Platforms-for-Python)
 - [Python Libraries And Frameworks](#Python-Libraries-And-Frameworks)
-- [Connect With Me](#Connect-With-Me:)
+- [Connect With Me](#Connect-With-Me)
 - [LICENSE](#LICENSE)
 
 
