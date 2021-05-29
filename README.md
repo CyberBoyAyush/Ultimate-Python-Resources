@@ -12,7 +12,7 @@ I don't own any of the resources provided in this repository. I just made this r
 
 # Contents
 - [Ultimate Python Resources](#Ultimate-Python-Resources)
-- [Best Python Resource]()
+- [Best Python Resource](https://github.com/CyberBoyAyush/Ultimate-Python-Resources#best-python-resource-----python-official-website)
 - [Download Python In Your PC/Laptop](#Download-Python-In-Your-PC/Laptop)
 - [Python Learning Websites](#Python-Learning-Websites)
 - [Python Video Courses (Free But Best)](#Python-Video-Courses-(Free-But-Best))
